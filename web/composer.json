@@ -1,0 +1,20 @@
+{
+    "name": "demo/web",
+    "autoload": {
+        "psr-4": {
+            "Zhangyafei\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "demo",
+            "email": "demo@xxx.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+		"psr-0":{
+			"Converter": "src/"
+		}
+    }
+}
